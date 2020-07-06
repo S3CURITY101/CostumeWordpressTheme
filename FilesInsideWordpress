@@ -1,0 +1,28 @@
+Guides
+this > icon means sub folders
+this - icon mean sub files
+
+Folders
+Main Theme Folder >
+ > assets > css > fonts > images > javascript
+ > classes
+ > inc 'stands for includes'
+ > template-parts
+ > templates
+ - 404.php
+ - archive.php
+ - comments.php
+ - footer.php
+ - function.php
+ - header.php
+ - index.php
+ - style.css
+ - page.php
+ - front-page.php
+ - single.php
+ - readme.txt
+ - search.php
+ - screenshot.png ' how looks your theme is '
+ 
+ 
+ 
